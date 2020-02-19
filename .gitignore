@@ -13,6 +13,7 @@ sdist
 develop-eggs
 .installed.cfg
 src-mrd/
+src/
 
 # Installer logs
 pip-log.txt
